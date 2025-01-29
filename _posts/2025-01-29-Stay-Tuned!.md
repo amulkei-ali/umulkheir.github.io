@@ -23,8 +23,7 @@ where we can all learn together, share ideas 💬, and grow our skills.
 
 ## contact
 
-If you’d like to connect with me, please drop me an email at [amulkeinoor@gmail.com]
-(mailto:amulkeinoor@gmail.com)
+If you’d like to connect with me, please drop me an email at [amulkeinoor@gmail.com](mailto:amulkeinoor@gmail.com)
 
 
 
