@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+<meta http-equiv="refresh" content="0;url=./_tabs/about.md/">
 
 # 👋 Hi!
  I'm umulkheir noor (umulkheir.com)-Network Engineering student on a mission to make complex technology easy and fun to understand. I know firsthand how overwhelming networking concepts 📡 and Linux 🖥️ can be, especially when you're just starting out. That's why I created this space—to help you cut through the confusing terms and get to the heart of these tech topics in a way that actually makes sense.
