@@ -11,8 +11,9 @@ Here, I’ll be sharing simple guides, practical tips, and insights not just on 
 
 If you’re curious about networking or Linux, or just want to learn something new without feeling lost in the technical details, you’re in the right place. I want this to be a space where we can all learn together, share ideas 💬, and grow our skills.
 
-Feel free to reach out to me:  
-[Contact me via email](mailto:amulkeinoor@gmail.com).I’d love to hear from you and keep this tech journey interactive and exciting!!
+
+## contact
+If you’d like to connect with me, pease drop me an email at amulkeinoor@gmail.com!
 
 
 
