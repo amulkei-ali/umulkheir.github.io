@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Understanding Firewalls: A Simple Guide to Managing Network Security on Linux.'
+title: 'Understanding Firewalls.'
 date: 2025-01-30 17:55 +0300
 ---
 
