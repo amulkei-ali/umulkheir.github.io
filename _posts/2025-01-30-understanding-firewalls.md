@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: 'Understanding Firewalls.'
 date: 2025-01-30 17:55 +0300
 categories: [linux,firewall]
