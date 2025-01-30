@@ -15,7 +15,7 @@ If you’re curious about networking or Linux, or just want to learn something n
 
 ## contact
 
-If you’d like to connect with me, please drop me an email at [amulkeinoor@gmail.com](mailto:amulkeinoor@gmail.com)
+If you’d like to connect with me, please drop me an email at [contact@umulkeir.com](mailto:contact@umulkheir.com)
 
 
 
