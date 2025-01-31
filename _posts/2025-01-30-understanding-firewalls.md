@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Understanding Firewalls ![firewall](https://www.flaticon.com/free-icon/firewall_3193134){: lqip="/path/to/lqip-file" }.'
+title: 'Understanding Firewalls 🛡️'
 date: 2025-01-30 17:55 +0300
 tags: [firewall,linux]
 categories: [security]
