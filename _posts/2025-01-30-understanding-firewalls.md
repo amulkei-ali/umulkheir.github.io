@@ -21,7 +21,7 @@ For example:
   In short, a firewall is a tool that helps protect your system from unwanted or harmful traffic by filtering what comes in or out based on rules.
 
 
-  ## Common Firewall Technologies In Linux:
+## Common Firewall Technologies In Linux:
 
      * iptables,
      * nftables,
@@ -29,7 +29,7 @@ For example:
      * UFW (Uncomplicated firewall)
 
 
-  ## iptables and nftables as the "engine"   
+## iptables and nftables as the "engine"   
 
  -iptables and nftables are the core technologies that define the rules for controlling network traffic. They are responsible for:
    * Deciding which data can go in and out of the system.
@@ -39,7 +39,7 @@ For example:
   -iptables is the older one and nftables is the newer, more efficient version.
 
 
-  ## UFW and Firewalld as "Front-ends"
+## UFW and Firewalld as "Front-ends"
 
 Think of UFW and Firewalld as helper tools that make it easier to set up and manage your firewall rules without 
 you needing to write everything manually.
