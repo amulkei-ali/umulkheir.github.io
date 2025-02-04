@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Profile Image](https://avatars.githubusercontent.com/u/181209690?s=400&u=c9a1e0793920c3dc20963eefe1d757f6ab79fd13&v=4)
+<p dir="rtl">مرحبا بك في VSCode!</p>
+
 
 
 # 👋 Hi!
