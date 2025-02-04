@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Profile Image](https://www.google.com/imgres?q=bismillah%20jpg&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F02%2F24%2F42%2F60%2F360_F_224426035_HKbhrCheAHvsw3ZjxobdHLqwpurKBAhI.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dbismillah&docid=az4Wrurq2zhNQM&tbnid=Y-PcKHhHH27Z4M&vet=12ahUKEwjkyd-l06mLAxUyTaQEHWYtJAMQM3oECBsQAA..i&w=1440&h=360&hcb=2&ved=2ahUKEwjkyd-l06mLAxUyTaQEHWYtJAMQM3oECBsQAA)
-
+![Profile Image](https://avatars.githubusercontent.com/u/181209690?s=400&u=96d9b74c3bbbd52d8f04bdb3b6252e07c1285de3&v=4)
 
 
 # 👋 Hi!
