@@ -7,6 +7,7 @@ categories: [security]
 
 ---
 
+ <p dir="rtl">بِسْمِ ٱللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
 
 ## What is a Firewall ?
 
