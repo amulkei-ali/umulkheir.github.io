@@ -1,7 +1,6 @@
 ---
-layout: post
- <p dir="rtl">بِسْمِ ٱللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
-title: 'Understanding Firewalls 🛡️'
+layout: post 
+title: 'بِسْمِ ٱللَّهِ الرَّحْمَٰنِ الرَّحِيمِ Understanding Firewalls 🛡️'
 date: 2025-01-30 17:55 +0300
 tags: [firewall,linux]
 categories: [security]
