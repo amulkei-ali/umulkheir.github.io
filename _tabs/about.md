@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<p dir="rtl">مرحبا بك في VSCode!</p>
+   <p dir="rtl">بِسْمِ ٱللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
 
 
 
