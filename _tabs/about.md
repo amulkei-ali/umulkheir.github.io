@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![Profile Image](https://www.google.com/imgres?q=bismillah%20jpg&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F02%2F24%2F42%2F60%2F360_F_224426035_HKbhrCheAHvsw3ZjxobdHLqwpurKBAhI.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dbismillah&docid=az4Wrurq2zhNQM&tbnid=Y-PcKHhHH27Z4M&vet=12ahUKEwjkyd-l06mLAxUyTaQEHWYtJAMQM3oECBsQAA..i&w=1440&h=360&hcb=2&ved=2ahUKEwjkyd-l06mLAxUyTaQEHWYtJAMQM3oECBsQAA)
+
+
 
 # 👋 Hi!
  I'm umulkheir noor (umulkheir.com)-Network Engineering student on a mission to make complex technology easy and fun to understand. I know firsthand how overwhelming networking concepts 📡 and Linux 🖥️ can be, especially when you're just starting out. That's why I created this space—to help you cut through the confusing terms and get to the heart of these tech topics in a way that actually makes sense.
