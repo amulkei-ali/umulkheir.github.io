@@ -6,6 +6,8 @@ tags: [SElinux, linux]
 categories: [security]
 ---
 
+![Alt text](/assets/images/SElinux.jpg)
+
 Security-Enhanced Linux (SELinux) is a powerful security mechanism built into modern Linux distributions. It enforces mandatory access controls (MAC) to restrict users and processes from accessing files, directories, and system resources beyond their allowed permissions. Unlike traditional discretionary access control (DAC), where users set permissions on their own files, SELinux enforces policies at the system level to enhance security.
 
 
