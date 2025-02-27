@@ -2,7 +2,7 @@
 layout: post
 title: 'SELinux Made Simple: A Beginner''s Guide'
 date: 2025-02-26 09:39 +0300
-tags: [SElinux, linux]
+tags: [SElinux, linux, Cybersecurity, Linux Hardening, Security Tools, Malware Protection, Data Breaches, Security Best Practices]
 categories: [security]
 ---
 
