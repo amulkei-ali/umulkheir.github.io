@@ -43,9 +43,8 @@ SELinux uses different types of policies to define security rules. The main type
  sestatus # check the status and policy of SElinux
  ```
 
- ## Understanding SELinux Labels
- 
- ### SELinux Permissions
+## Understanding SELinux Labels
+### SELinux Permissions
 
 SELinux enforces security through three main permission sets:
 
