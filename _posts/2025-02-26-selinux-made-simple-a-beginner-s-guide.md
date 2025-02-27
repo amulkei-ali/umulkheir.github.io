@@ -44,6 +44,7 @@ SELinux uses different types of policies to define security rules. The main type
  ```
 
  ## Understanding SELinux Labels
+ 
  ### SELinux Permissions
 
 SELinux enforces security through three main permission sets:
