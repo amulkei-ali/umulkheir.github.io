@@ -91,6 +91,4 @@ Mounting might seem tricky at first, but once you get the hang of it, it’s sup
 
 Keep experimenting, and don’t be afraid to get your hands dirty in the terminal! 🖥️
 
-![alt text](image.png)
-
 Happy mounting, and may your filesystems always be clean. ✨
