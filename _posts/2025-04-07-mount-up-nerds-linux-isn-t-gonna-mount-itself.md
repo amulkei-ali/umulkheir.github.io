@@ -11,13 +11,13 @@ Greetings, fellow command-line explorer! 🧑‍🚀 Whether you're just startin
 
 Don’t worry — mounting isn’t complicated or scary. It’s just Linux’s thoughtful way of connecting your storage devices so you can actually use them.
 
-## 🧠 So, What Exactly Is Mounting?
+## So, What Exactly Is Mounting?
     
 In Linux, mounting is the process of making a storage device or filesystem accessible at a certain location in the system's directory tree. Think of it like plugging in a USB drive. when it's mounted, you can open it and see the files; when it's unmounted, it's invisible to the system.
 
-💡 Linux treats everything as a file, and that includes disks and partitions. There’s no special drive letter system (like C:\ or D:\ in Windows). Instead, Linux uses a single directory tree starting from / (root), and everything gets mounted somewhere within it.
+Linux treats everything as a file, and that includes disks and partitions. There’s no special drive letter system (like C:\ or D:\ in Windows). Instead, Linux uses a single directory tree starting from / (root), and everything gets mounted somewhere within it.
 
-## 🛠️ Mounting Staff the Cool Way
+## Mounting Staff the Cool Way
 
 Here’s how you ask Linux nicely to mount something:
 
@@ -39,7 +39,7 @@ Boom. You're mounted. 💥
 📌 We say "please" with sudo, and Linux says “Okay, here you go.”
 
 
-## 📤 Don’t Just Yank It — Unmount Like a Responsible Nerd
+## Don’t Just Yank It — Unmount Like a Responsible Nerd
 
 Before pulling the plug, you gotta unmount the device. Why? Because Linux is polite and likes to say goodbye properly. 💔
 
@@ -52,7 +52,7 @@ This is basically Linux etiquette — like putting the dishes away after using t
 If you just pull out the USB without unmounting, Linux might panic a little, and you could lose data and no one wants corrupted data.
 
 
-## ⚙️ Want It Done Automatically? Enter /etc/fstab
+## Want It Done Automatically? Enter /etc/fstab
 
 If you want Linux to remember your mounting habits like a clingy ex, use the /etc/fstab file 😉
 
@@ -78,7 +78,7 @@ mount
 
 Either way, Linux gives you the whole story, like a verbose but helpful librarian.
 
-## 🧹 Quick Recap
+## Quick Recap
 ### Command  _  What It Does
     mount       >	Connects a device to the system
     umount	    >   Safely disconnects it
@@ -89,6 +89,6 @@ Either way, Linux gives you the whole story, like a verbose but helpful libraria
 
 Mounting might seem tricky at first, but once you get the hang of it, it’s super powerful. You’ll find yourself using it all the time — especially when managing servers, external drives, or virtual machines.
 
-Keep experimenting, and don’t be afraid to get your hands dirty in the terminal! 🖥️
+Keep experimenting, and don’t be afraid to get your hands dirty in the terminal! 
 
 Happy mounting, and may your filesystems always be clean. ✨
