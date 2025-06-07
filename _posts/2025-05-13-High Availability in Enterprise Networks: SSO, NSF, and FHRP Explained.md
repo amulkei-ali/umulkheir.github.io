@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ⚡ High Availability in Enterprise Networks:SSO, NSF, and FHRP Explained
+title: Building Resilient Enterprise Networks Using SSO NSF and FHRP 🏗️ 
 date: 2025-05-11 15:55 +0300
 ---
 
