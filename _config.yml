@@ -1,12 +1,5 @@
 # The Site Configuration
 
-<link rel="icon" type="image/png" href="/https://github.com/amulkei-ali/umulkheir.github.io/assets/img/favicon.ico/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/https://github.com/amulkei-ali/umulkheir.github.io/assets/img/favicon.ico/favicon.svg" />
-<link rel="shortcut icon" href="/https://github.com/amulkei-ali/umulkheir.github.io/assets/img/favicon.ico/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/https://github.com/amulkei-ali/umulkheir.github.io/assets/img/favicon.ico/apple-touch-icon.png" />
-<link rel="manifest" href="/https://github.com/amulkei-ali/umulkheir.github.io/assets/img/favicon.ico/site.webmanifest" />
-
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -22,7 +15,6 @@ timezone: Europe/Istanbul
 # ↓ --------------------------
 
 title: Umulkheir # the main title
-favicon: /assets/img/favicon.ico
 
 
 tagline: Let’s learn and grow together on this tech journey!🚀
