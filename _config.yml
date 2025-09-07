@@ -15,6 +15,7 @@ timezone: Europe/Istanbul
 # ↓ --------------------------
 
 title: Umulkheir # the main title
+favicon: /assets/img/favicon.ico
 
 
 tagline: Let’s learn and grow together on this tech journey!🚀
