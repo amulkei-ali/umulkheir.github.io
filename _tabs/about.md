@@ -8,7 +8,7 @@ order: 4
 
 
 
-# 👋 Hi!
+# 👋 Salaam!
  I'm umulkheir noor (umulkheir.com)-Network Engineering student on a mission to make complex technology easy and fun to understand. I know firsthand how overwhelming networking concepts 📡 and Linux 🖥️ can be, especially when you're just starting out. That's why I created this space—to help you cut through the confusing terms and get to the heart of these tech topics in a way that actually makes sense.
 
 Here, I’ll be sharing simple guides, practical tips, and insights not just on networking, but also on Linux—whether you're setting up your first server, mastering the command line, or tackling system administration tasks. My goal is to break down these concepts into bite-sized, actionable content that you can actually use.
